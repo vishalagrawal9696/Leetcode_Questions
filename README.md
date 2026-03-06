@@ -32,4 +32,8 @@ question practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 <!---LeetCode Topics End-->
