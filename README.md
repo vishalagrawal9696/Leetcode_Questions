@@ -28,4 +28,8 @@ question practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 <!---LeetCode Topics End-->
