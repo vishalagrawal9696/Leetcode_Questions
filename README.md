@@ -6,6 +6,7 @@ question practice
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0001-two-sum/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Matrix
@@ -36,4 +37,8 @@ question practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
