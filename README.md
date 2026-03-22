@@ -9,10 +9,12 @@ question practice
 | [0001-two-sum](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0001-two-sum/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
