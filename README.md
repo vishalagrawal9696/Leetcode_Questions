@@ -38,6 +38,7 @@ question practice
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0007-reverse-integer/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
