@@ -7,6 +7,7 @@ question practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -18,10 +19,12 @@ question practice
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -44,4 +47,9 @@ question practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
