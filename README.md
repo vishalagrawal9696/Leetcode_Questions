@@ -11,11 +11,13 @@ question practice
 | [0215-kth-largest-element-in-an-array](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,11 +45,13 @@ question practice
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0007-reverse-integer/) | Medium |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0169-majority-element/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
