@@ -75,4 +75,8 @@ question practice
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/0075-sort-colors/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vishalagrawal9696/Leetcode_Questions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
